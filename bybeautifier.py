@@ -1,6 +1,6 @@
-from klibs.kjson_parser import beautify_json
-from klibs.kfile_handlers import get_file_content
-from klibs.kfile_handlers import write_json_output_file
+from libs.kjson_parser import beautify_json
+from libs.kfile_handlers import get_file_content
+from libs.kfile_handlers import write_json_output_file
 
 import sys, getopt, os
 
